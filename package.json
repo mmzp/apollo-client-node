@@ -1,0 +1,16 @@
+{
+  "name": "apollo-client-node",
+  "version": "0.1.0",
+  "description": "配置中心 Apollo 的 Node.js 版本 SDK，可集成到 eggjs 框架",
+  "main": "lib/apollo.js",
+  "directories": {
+    "example": "example",
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mutou",
+  "license": "MIT"
+}
