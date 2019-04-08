@@ -1,6 +1,6 @@
 {
   "name": "apollo-client-node",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "配置中心 Apollo 的 Node.js 版本 SDK，可集成到 eggjs 框架",
   "main": "lib/apollo.js",
   "directories": {
